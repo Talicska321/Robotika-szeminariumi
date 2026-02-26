@@ -1,0 +1,15 @@
+ERRCOMM.LS     Robot Name ROBOT 25-FEB-26 15:50:54  
+
+1" 25-FEB-26 12:24:52 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 
+2" 25-FEB-26 12:02:40 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 
+3" 24-FEB-26 18:51:26 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 
+4" 24-FEB-26 18:40:54 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 
+5" 24-FEB-26 18:33:02 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 
+6" 24-FEB-26 18:13:46 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 
+7" 24-FEB-26 11:25:16 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 
+8" 23-FEB-26 18:18:54 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 
+9" 23-FEB-26 16:33:38 " HOST-209 SM: Connection Aborted                   " " WARN                          00000000" 
+10" 23-FEB-26 14:29:56 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 
+11" 23-FEB-26 12:27:02 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 
+12" 23-FEB-26 12:16:44 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 
+13" 20-FEB-26 15:55:30 " HOST-028 ZDT URL parse error 101                  " " WARN                          00000000" 

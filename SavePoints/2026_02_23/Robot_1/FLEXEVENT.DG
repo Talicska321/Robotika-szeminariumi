@@ -1,0 +1,47 @@
+Func       Date      Time    Tick       NavID              Text
+POWR  72 20-FEB-26 15:55:32   418 Power Cycle 
+KEY   72 20-FEB-26 18:24:00  6E6C /wizard/guided/steps Initial Setup
+KEY   72 20-FEB-26 18:24:00  6E6C /wizard/guided/steps Initial Setup
+KEY   72 20-FEB-26 18:24:04  7F43 /wizard/guided/steps Initial Setup
+EXIT  72 20-FEB-26 18:24:04  7F43 71 1 
+KEY   72 20-FEB-26 18:58:06  8B67 /wizard/guided/steps Initial Setup
+KEY   72 20-FEB-26 18:58:06  8BDF /wizard/guided/steps Initial Setup
+KEY   72 20-FEB-26 18:58:06  8D63 /wizard/guided/steps Initial Setup
+EXIT  72 20-FEB-26 18:58:06  8D63 148 2 
+POWR  72 23-FEB-26 12:16:44   418 Power Cycle 
+POWR  72 23-FEB-26 12:27:02   418 Power Cycle 
+POWR  72 23-FEB-26 14:29:56   419 Power Cycle 
+HOME  72 23-FEB-26 16:20:48  1D7E flexuif_home_c Hardkey 
+KEY   72 23-FEB-26 16:20:48  1E3E /wizard/guided/steps Initial Setup
+KEY   72 23-FEB-26 16:20:48  2396 /wizard/guided/steps Initial Setup
+EXIT  72 23-FEB-26 16:20:48  2396 71 1 
+HOME  72 23-FEB-26 17:00:08  D3DA flexuif_home_c Hardkey 
+KEY   72 23-FEB-26 17:00:08  D43A /wizard/guided/steps Initial Setup
+NAV  150 23-FEB-26 17:00:16  ECB8 /nav/core/home/teach/edit 
+KEY   72 23-FEB-26 17:00:16  ECB8 /nav/core/home HOME
+KEY   72 23-FEB-26 17:00:16  ECB8 /nav/core/home HOME
+EXIT  72 23-FEB-26 17:00:16  ECB8 64 1 
+HOME  72 23-FEB-26 17:00:24   82A flexuif_home_c Hardkey 
+KEY   72 23-FEB-26 17:00:24   8A2 /wizard/guided/steps Initial Setup
+KEY   72 23-FEB-26 17:00:30  1EF4 /nav/core/wizardkeys/f2 CANCEL
+NAV  150 23-FEB-26 17:00:34  288A /nav/core/home/teach/edit 
+KEY   72 23-FEB-26 17:00:34  288A /nav/core/home HOME
+KEY   72 23-FEB-26 17:00:34  288A /nav/core/home HOME
+EXIT  72 23-FEB-26 17:00:34  288A 64 1 
+HOME  72 23-FEB-26 17:11:04  9E8D flexuif_home_c Hardkey 
+KEY   72 23-FEB-26 17:11:04  9F4D /wizard/guided/steps Initial Setup
+KEY   72 23-FEB-26 17:11:06  A3CD /wizard/guided/steps Initial Setup
+EXIT  72 23-FEB-26 17:11:06  A3CD 71 1 
+HOME  72 23-FEB-26 17:13:04  2A20 flexuif_home_c Hardkey 
+KEY   72 23-FEB-26 17:13:04  2AE0 /wizard/guided/steps Initial Setup
+KEY   72 23-FEB-26 17:13:04  2FA8 /wizard/guided/steps Initial Setup
+EXIT  72 23-FEB-26 17:13:04  2FA8 71 1 
+POWR  72 23-FEB-26 18:18:54   418 Power Cycle 
+HOME  72 23-FEB-26 18:29:32  74CB flexuif_home_c Hardkey 
+KEY   72 23-FEB-26 18:29:32  752B /wizard/guided/steps Initial Setup
+KEY   72 23-FEB-26 18:29:34  7C93 /wizard/guided/steps Initial Setup
+EXIT  72 23-FEB-26 18:29:34  7C93 71 1 
+HOME  72 23-FEB-26 18:45:40  CD93 flexuif_home_c Hardkey 
+KEY   72 23-FEB-26 18:45:40  CE0B /wizard/guided/steps Initial Setup
+KEY   72 23-FEB-26 18:45:42  D3AB /wizard/guided/steps Initial Setup
+EXIT  72 23-FEB-26 18:45:42  D3AB 71 1 
